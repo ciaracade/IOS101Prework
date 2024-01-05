@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/Objects-normal/arm64/CodePath Prework-master.d",
+    "diagnostics" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/Objects-normal/arm64/CodePath Prework-master.dia",
+    "emit-module-dependencies" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/Objects-normal/arm64/CodePath Prework-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/Objects-normal/arm64/CodePath Prework-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/Objects-normal/arm64/CodePath Prework-master.swiftdeps"
+  },
+  "/Users/ciaracade/Desktop/CodePath Prework/CodePath Prework/AppDelegate.swift" : {
+
+  },
+  "/Users/ciaracade/Desktop/CodePath Prework/CodePath Prework/SceneDelegate.swift" : {
+
+  },
+  "/Users/ciaracade/Desktop/CodePath Prework/CodePath Prework/ViewController.swift" : {
+
+  },
+  "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/CodePath Prework.build/Debug-iphoneos/CodePath Prework.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "dea87a7b94b5cbd003009d596ad1f2105da1712c6cc877af225a9266c6feee7b"
+    }
+  ],
+  "containerPath" : "/Users/ciaracade/Desktop/CodePath Prework/CodePath Prework.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Build/Products",
+      "pchPath" : "/Users/ciaracade/Desktop/CodePath Prework/DerivedData/CodePath Prework/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
