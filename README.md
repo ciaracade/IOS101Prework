@@ -24,6 +24,28 @@ The following **required** functionality is completed:
 Navigating controllers and things like UI components to be handled on the ViewComponents file was a bit
 of a challenge. Otherwise, I really like the simplicity that Swift adds to building IOS apps.
 
+## App Brainstorming
+
+### Favorite Apps and Features
+
+- Tiktok
+  - Continous scroll with videos that are already loaded and cached into the system to provide seemless scrolling experience.
+  - Offers a shop for viewers to easily watch the review of an item and then buy it.
+- Playstation App
+  - Able to see console function and settings away from home (able to buy and download games away from console)
+  - Able to access previous games, gamechat, game messages, gameplay screenshots, away from home.
+  - Amazing game design that relates to the Playstation persona
+- Pinterest
+  - Adjusts explore page based on users pins and previous search history
+  - Users are able to save things into multiple files and access seperate explore pages based on that board/file
+
+### App Idea
+
+    I'd like to create an app that solves the problem of not knowing exactly what to wear everyday. I'm hypersensitive
+    and sometimes, even when given the weather, I can get annoyed by the clothes I'm wearing because its not suitable
+    for the outfit I'm wearing. This app with allow users to take pictures of their entire closet and categorize the
+    clothes into their respective clothing category (sweater, jacket, coat,, rain boots, etc) and given the weather for that day, give options on outfits. This can be calibrated using outfits that the person has previously worn the previous days and what users with similar clothing has worn for that specific temperature. My app will utilize to weather API availible to use by everyone, and implement a scroll feature so User's can choose other options for clothes.
+
 ## License
 
     Copyright [2024] [Ciara Cade]
